@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersectionAPI", "RectangleIntersectionAPI\RectangleIntersectionAPI.csproj", "{E1B8C010-6B66-4AB4-80B7-AAECB9E2BAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersectionAPI.Tests", "RectangleIntersectionAPI.Tests\RectangleIntersectionAPI.Tests.csproj", "{F15C4610-0361-4E64-A3A1-FD9DDAB26A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B8C010-6B66-4AB4-80B7-AAECB9E2BAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B8C010-6B66-4AB4-80B7-AAECB9E2BAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B8C010-6B66-4AB4-80B7-AAECB9E2BAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B8C010-6B66-4AB4-80B7-AAECB9E2BAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15C4610-0361-4E64-A3A1-FD9DDAB26A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15C4610-0361-4E64-A3A1-FD9DDAB26A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15C4610-0361-4E64-A3A1-FD9DDAB26A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15C4610-0361-4E64-A3A1-FD9DDAB26A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4D900C-470A-4EE4-91ED-6530773FCB79}
+	EndGlobalSection
+EndGlobal
